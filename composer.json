@@ -1,0 +1,14 @@
+{
+    "license": "MIT",
+    "name": "danghieu90/less-codesniffer",
+    "description": "PHP_CodeSniffer ruleset for less",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Magento\\": "src/Magento/"
+        }
+    },
+    "require": {
+        "squizlabs/php_codesniffer": "^3.5"
+    }
+}
