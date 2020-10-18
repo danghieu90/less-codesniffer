@@ -11,5 +11,5 @@
     <rule ref="Generic.Files.LineEndings"/>
     <rule ref="Generic.WhiteSpace.DisallowTabIndent"/>
     <rule ref="Squiz.CSS.NamedColours"/>
-    <rule ref="src/Magento/Sniffs/Less"/>
+    <rule ref="Magento/Sniffs/Less"/>
 </ruleset>
